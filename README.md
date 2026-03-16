@@ -4,12 +4,15 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Digital Identity & Credentials
 <p align="left">
-<a href="https://www.linkedin.com/in/shuvo75/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://codeforces.com/profile/byte_brain" target="blank"><img src="https://img.shields.io/badge/-Codeforces-%23445f9d?style=flat-square&logo=codeforces&logoColor=white"></a>
-<a href="https://www.codechef.com/users/byte_brain" target="blank"><img src="https://img.shields.io/badge/-Codechef-%235B4638?style=flat-square&logo=codechef&logoColor=white"></a>
-<a href="https://ctftime.org/user/251614" target="blank"><img src="https://img.shields.io/badge/-CTFtime-%23C82C2C?style=flat-square&logo=ctftime&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shuvo75/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/s-m-rakibul-hasan-shuvo/badges"><img src="https://img.shields.io/badge/Certifications-FF6B6B?style=flat&logo=credly&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/byte_brain"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/byte_brain"><img src="https://img.shields.io/badge/Codechef-5B4638?style=flat&logo=codechef&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Byte_Brain/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
+  <a href="https://tryhackme.com/p/minuszero"><img src="https://img.shields.io/badge/TryHackMe-212c42?style=flat&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://ctftime.org/user/251614"><img src="https://img.shields.io/badge/CTFtime-C82C2C?style=flat&logo=ctftime&logoColor=white" /></a>
 </p>
 
 ---
