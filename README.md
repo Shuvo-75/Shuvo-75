@@ -6,10 +6,10 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_ID" target="blank"><img src="https://img.shields.io/badge/-Codeforces-%23445f9d?style=flat-square&logo=codeforces&logoColor=white"></a>
-<a href="https://www.codechef.com/users/YOUR_CODECHEF_ID" target="blank"><img src="https://img.shields.io/badge/-Codechef-%235B4638?style=flat-square&logo=codechef&logoColor=white"></a>
-<a href="https://ctftime.org/user/YOUR_CTFTIME_ID" target="blank"><img src="https://img.shields.io/badge/-CTFtime-%23C82C2C?style=flat-square&logo=ctftime&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/shuvo75/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://codeforces.com/profile/byte_brain" target="blank"><img src="https://img.shields.io/badge/-Codeforces-%23445f9d?style=flat-square&logo=codeforces&logoColor=white"></a>
+<a href="https://www.codechef.com/users/byte_brain" target="blank"><img src="https://img.shields.io/badge/-Codechef-%235B4638?style=flat-square&logo=codechef&logoColor=white"></a>
+<a href="https://ctftime.org/user/251614" target="blank"><img src="https://img.shields.io/badge/-CTFtime-%23C82C2C?style=flat-square&logo=ctftime&logoColor=white"></a>
 </p>
 
 ---
