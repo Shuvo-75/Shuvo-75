@@ -23,7 +23,7 @@
 ---
 
 ### 🔥 Activity Streak
-![GitHub Streak](https://github-streak-stats.herokuapp.com/?user=Shuvo-75&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Shuvo-75&theme=radical)
 
 ---
 
