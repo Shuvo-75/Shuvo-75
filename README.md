@@ -1,6 +1,14 @@
-# 👨‍💻 Hi there, I'm Shuvo! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Hi,%20I'm%20Shuvo!&fontSize=70&animation=fadeIn" width="100%" />
+</div>
 
-> **AI Agent Developer | Competitive Programmer | Cyber Security Enthusiast**
+<p align="center">
+  <b>AI Agent Developer | Competitive Programmer | Cyber Security Enthusiast</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shuvo-75&label=Profile%20Views&color=0077B5&style=flat-square" alt="Shuvo-75" />
+</p>
 
 ---
 
