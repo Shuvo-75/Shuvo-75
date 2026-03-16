@@ -5,17 +5,18 @@
 ---
 
 ### 🌐 Connect with Me
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME)
-[![Codechef](https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME)
-[![CTFtime](https://img.shields.io/badge/CTFtime-C82C2C?style=for-the-badge&logo=ctftime&logoColor=white)](https://ctftime.org/user/YOUR_CTFTIME_ID)
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://codeforces.com/profile/YOUR_CODEFORCES_ID" target="blank"><img src="https://img.shields.io/badge/-Codeforces-%23445f9d?style=flat-square&logo=codeforces&logoColor=white"></a>
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_ID" target="blank"><img src="https://img.shields.io/badge/-Codechef-%235B4638?style=flat-square&logo=codechef&logoColor=white"></a>
+<a href="https://ctftime.org/user/YOUR_CTFTIME_ID" target="blank"><img src="https://img.shields.io/badge/-CTFtime-%23C82C2C?style=flat-square&logo=ctftime&logoColor=white"></a>
+</p>
 
 ---
 
-### 📊 My GitHub Statistics
-| My Top Languages | GitHub Stats |
+### 📊 GitHub Statistics
+
+| 🚀 My Top Languages | 📈 Overall Stats |
 | :--- | :--- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuvo-75&layout=compact&langs_count=10&theme=radical) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shuvo-75&show_icons=true&theme=radical) |
 
@@ -26,8 +27,21 @@
 
 ---
 
-### 🤖 AI Agent Marathon 2026
-- [x] Day 1: Task Prioritization Agent
-- [x] Day 2: Email Summarization Agent
-- [x] Day 3: Calendar Conflict Resolver
-- [ ] Day 4: (Coming Soon...)
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 🎯 Focus Areas
+* 🤖 **AI & LLM Orchestration:** Building autonomous agents and workflows.
+* 🏆 **Competitive Programming:** Solving algorithmic challenges on Codeforces & Codechef.
+* 🛡️ **Cyber Security:** Participating in CTFs and security research.
+
+---
+*Last Updated: 2026*
